@@ -1,7 +1,7 @@
 ---
 title: Orientaciones
-icon: fa-check
-order: 7
+icon: fa-fax
+order: 8
 ---
 
 <a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
